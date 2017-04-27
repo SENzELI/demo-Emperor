@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1487663841 source:d:\a\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1488188026 source:f:\a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1488117286 source:h:\a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1487929146 source:e:\a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1488265667 source:i:\a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+

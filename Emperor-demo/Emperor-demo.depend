@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1489627846 source:g:\c\emperor-demo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+	<string.h>
+
+1489597768 source:h:\c\emperor-demo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+	<string.h>
+
